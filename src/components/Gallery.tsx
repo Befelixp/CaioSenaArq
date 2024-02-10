@@ -6,7 +6,7 @@ export function Gallery() {
   return (
     <div
       id="default-carousel"
-      className="relative w-full w-3/5 shadow-2xl"
+      className="relative w-3/5 shadow-2xl"
       data-carousel="slide"
     >
       <div className="relative h-56 overflow-hidden rounded-lg md:h-96">
